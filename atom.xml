@@ -4,9 +4,9 @@
   <subtitle>记录我成长的轨迹</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://0.0.0.0:4000/"/>
+  <link href="http://oliviafu.github.io/"/>
   <updated>2016-05-31T04:34:51.000Z</updated>
-  <id>http://0.0.0.0:4000/</id>
+  <id>http://oliviafu.github.io/</id>
   
   <author>
     <name>Olivia Yuzhi Fu</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>第一次</title>
-    <link href="http://0.0.0.0:4000/2016/05/30/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
-    <id>http://0.0.0.0:4000/2016/05/30/第一次/</id>
+    <link href="http://oliviafu.github.io/2016/05/30/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+    <id>http://oliviafu.github.io/2016/05/30/第一次/</id>
     <published>2016-05-31T04:26:17.000Z</published>
     <updated>2016-05-31T04:34:51.000Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="第一次" scheme="http://0.0.0.0:4000/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+      <category term="第一次" scheme="http://oliviafu.github.io/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
     
   </entry>
   
   <entry>
     <title>期待六一</title>
-    <link href="http://0.0.0.0:4000/2016/05/28/%E6%9C%9F%E5%BE%85%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82/"/>
-    <id>http://0.0.0.0:4000/2016/05/28/期待六一儿童节/</id>
+    <link href="http://oliviafu.github.io/2016/05/28/%E6%9C%9F%E5%BE%85%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82/"/>
+    <id>http://oliviafu.github.io/2016/05/28/期待六一儿童节/</id>
     <published>2016-05-29T00:16:08.000Z</published>
     <updated>2016-05-31T04:29:27.000Z</updated>
     
@@ -59,9 +59,9 @@
     </summary>
     
     
-      <category term="儿童节" scheme="http://0.0.0.0:4000/tags/%E5%84%BF%E7%AB%A5%E8%8A%82/"/>
+      <category term="儿童节" scheme="http://oliviafu.github.io/tags/%E5%84%BF%E7%AB%A5%E8%8A%82/"/>
     
-      <category term="六一" scheme="http://0.0.0.0:4000/tags/%E5%85%AD%E4%B8%80/"/>
+      <category term="六一" scheme="http://oliviafu.github.io/tags/%E5%85%AD%E4%B8%80/"/>
     
   </entry>
   
