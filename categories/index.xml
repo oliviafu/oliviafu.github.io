@@ -2,45 +2,55 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Olivia&#39;s Gallery</title>
-    <link>http://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Olivia&#39;s Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comics</title>
-      <link>http://example.org/categories/comics/</link>
+      <link>http://localhost:1313/categories/comics/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/comics/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/comics/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Unicorn</title>
-      <link>http://example.org/categories/unicorn/</link>
+      <title>Unicore</title>
+      <link>http://localhost:1313/categories/unicore/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/unicorn/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/unicore/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Nick</title>
-      <link>http://example.org/categories/nick/</link>
+      <link>http://localhost:1313/categories/nick/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/nick/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/nick/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>豆子</title>
-      <link>http://example.org/categories/%E8%B1%86%E5%AD%90/</link>
+      <link>http://localhost:1313/categories/%E8%B1%86%E5%AD%90/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/%E8%B1%86%E5%AD%90/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/%E8%B1%86%E5%AD%90/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Beauty</title>
-      <link>http://example.org/categories/beauty/</link>
+      <title>Chalkboard</title>
+      <link>http://localhost:1313/categories/chalkboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/beauty/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/chalkboard/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Fashion</title>
-      <link>http://example.org/categories/fashion/</link>
+      <title>Creations</title>
+      <link>http://localhost:1313/categories/creations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/fashion/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/creations/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Scratch</title>
-      <link>http://example.org/categories/scratch/</link>
+      <title>DIY</title>
+      <link>http://localhost:1313/categories/diy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/scratch/</guid><description>&lt;no value&gt;</description></item>
+      <guid>http://localhost:1313/categories/diy/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Exploration</title>
+      <link>http://localhost:1313/categories/exploration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/exploration/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Handmade</title>
+      <link>http://localhost:1313/categories/handmade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/handmade/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
