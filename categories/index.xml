@@ -2,55 +2,65 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Olivia&#39;s Gallery</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://oliviafu.github.io/categories/</link>
     <description>Recent content in Categories on Olivia&#39;s Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://oliviafu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cartoon Art</title>
+      <link>https://oliviafu.github.io/categories/cartoon-art/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://oliviafu.github.io/categories/cartoon-art/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Comics</title>
-      <link>http://localhost:1313/categories/comics/</link>
+      <link>https://oliviafu.github.io/categories/comics/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/comics/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/comics/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Storytelling</title>
+      <link>https://oliviafu.github.io/categories/storytelling/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://oliviafu.github.io/categories/storytelling/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Unicore</title>
-      <link>http://localhost:1313/categories/unicore/</link>
+      <link>https://oliviafu.github.io/categories/unicore/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/unicore/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/unicore/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Nick</title>
-      <link>http://localhost:1313/categories/nick/</link>
+      <link>https://oliviafu.github.io/categories/nick/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/nick/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/nick/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>豆子</title>
-      <link>http://localhost:1313/categories/%E8%B1%86%E5%AD%90/</link>
+      <link>https://oliviafu.github.io/categories/%E8%B1%86%E5%AD%90/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E8%B1%86%E5%AD%90/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/%E8%B1%86%E5%AD%90/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Chalkboard</title>
-      <link>http://localhost:1313/categories/chalkboard/</link>
+      <link>https://oliviafu.github.io/categories/chalkboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/chalkboard/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/chalkboard/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Creations</title>
-      <link>http://localhost:1313/categories/creations/</link>
+      <link>https://oliviafu.github.io/categories/creations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/creations/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/creations/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>DIY</title>
-      <link>http://localhost:1313/categories/diy/</link>
+      <link>https://oliviafu.github.io/categories/diy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/diy/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/diy/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Exploration</title>
-      <link>http://localhost:1313/categories/exploration/</link>
+      <link>https://oliviafu.github.io/categories/exploration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/exploration/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/exploration/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Handmade</title>
-      <link>http://localhost:1313/categories/handmade/</link>
+      <link>https://oliviafu.github.io/categories/handmade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/handmade/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://oliviafu.github.io/categories/handmade/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

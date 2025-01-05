@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handmade on Olivia&#39;s Gallery</title>
+    <link>https://oliviafu.github.io/categories/handmade/</link>
+    <description>Recent content in Handmade on Olivia&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://oliviafu.github.io/categories/handmade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafts</title>
+      <link>https://oliviafu.github.io/crafts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://oliviafu.github.io/crafts/</guid><media:content url="https://oliviafu.github.io/crafts/20210614_33005_hu5750794270336605204.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://oliviafu.github.io/crafts/20210614_33005_hu5750794270336605204.jpg&quot; /&gt;
+          &lt;p&gt;A delightful showcase of her handmade creations, including greeting cards, paper crafts, and other imaginative projects. These pieces demonstrate her skillful use of materials and her passion for crafting thoughtful, one-of-a-kind items.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

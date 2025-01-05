@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chalkboard on Olivia&#39;s Gallery</title>
+    <link>https://oliviafu.github.io/categories/chalkboard/</link>
+    <description>Recent content in Chalkboard on Olivia&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://oliviafu.github.io/categories/chalkboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scratch</title>
+      <link>https://oliviafu.github.io/scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://oliviafu.github.io/scratch/</guid><media:content url="https://oliviafu.github.io/scratch/20220319_38609_hu12150917439283758067.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://oliviafu.github.io/scratch/20220319_38609_hu12150917439283758067.jpg&quot; /&gt;
+          &lt;p&gt;A quirky assortment of artwork made on unconventional surfaces! From chalkboards to cardboard, foams, and whiteboards, this category highlights her knack for turning everyday objects into unique canvases.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
