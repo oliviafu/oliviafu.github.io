@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Olivia&#39;s Gallery</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Olivia&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comics</title>
+      <link>http://example.org/categories/comics/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/comics/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Unicorn</title>
+      <link>http://example.org/categories/unicorn/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/unicorn/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Nick</title>
+      <link>http://example.org/categories/nick/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/nick/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>豆子</title>
+      <link>http://example.org/categories/%E8%B1%86%E5%AD%90/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/%E8%B1%86%E5%AD%90/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Beauty</title>
+      <link>http://example.org/categories/beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/beauty/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Fashion</title>
+      <link>http://example.org/categories/fashion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/fashion/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Scratch</title>
+      <link>http://example.org/categories/scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/categories/scratch/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>

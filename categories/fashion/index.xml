@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion on Olivia&#39;s Gallery</title>
+    <link>http://example.org/categories/fashion/</link>
+    <description>Recent content in Fashion on Olivia&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/categories/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craftwork</title>
+      <link>http://example.org/craftwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/craftwork/</guid><media:content url="http://example.org/craftwork/20210614_33005_hu5750794270336605204.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://example.org/craftwork/20210614_33005_hu5750794270336605204.jpg&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
