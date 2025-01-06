@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olivia Fu&#39;s Gallery on Olivia&#39;s Gallery</title>
-    <link>https://oliviafu.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Olivia Fu&#39;s Gallery on Olivia&#39;s Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://oliviafu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafts</title>
-      <link>https://oliviafu.github.io/crafts/</link>
+      <link>http://localhost:1313/crafts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://oliviafu.github.io/crafts/</guid><media:content url="https://oliviafu.github.io/crafts/20210614_33005_hu5750794270336605204.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/crafts/</guid><media:content url="http://localhost:1313/crafts/20210614_33005_hu5750794270336605204.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://oliviafu.github.io/crafts/20210614_33005_hu5750794270336605204.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/crafts/20210614_33005_hu5750794270336605204.jpg&quot; /&gt;
           &lt;p&gt;A delightful showcase of her handmade creations, including greeting cards, paper crafts, and other imaginative projects. These pieces demonstrate her skillful use of materials and her passion for crafting thoughtful, one-of-a-kind items.&lt;/p&gt;
         </description></item>
     <item>
       <title>Scratch</title>
-      <link>https://oliviafu.github.io/scratch/</link>
+      <link>http://localhost:1313/scratch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://oliviafu.github.io/scratch/</guid><media:content url="https://oliviafu.github.io/scratch/20220319_38609_hu12150917439283758067.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/scratch/</guid><media:content url="http://localhost:1313/scratch/20220319_38609_hu12150917439283758067.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://oliviafu.github.io/scratch/20220319_38609_hu12150917439283758067.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/scratch/20220319_38609_hu12150917439283758067.jpg&quot; /&gt;
           &lt;p&gt;A quirky assortment of artwork made on unconventional surfaces! From chalkboards to cardboard, foams, and whiteboards, this category highlights her knack for turning everyday objects into unique canvases.&lt;/p&gt;
         </description></item>
     <item>
       <title>Unicore</title>
-      <link>https://oliviafu.github.io/comics/unicore/</link>
+      <link>http://localhost:1313/comics/unicore/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://oliviafu.github.io/comics/unicore/</guid><media:content url="https://oliviafu.github.io/comics/unicore/20210420_32278_hu13977857211198035577.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/comics/unicore/</guid><media:content url="http://localhost:1313/comics/unicore/20210420_32278_hu13977857211198035577.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://oliviafu.github.io/comics/unicore/20210420_32278_hu13977857211198035577.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/comics/unicore/20210420_32278_hu13977857211198035577.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Nick and his friends</title>
-      <link>https://oliviafu.github.io/comics/nick/</link>
+      <link>http://localhost:1313/comics/nick/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://oliviafu.github.io/comics/nick/</guid><media:content url="https://oliviafu.github.io/comics/nick/20210409_32204_hu11575675418146102049.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/comics/nick/</guid><media:content url="http://localhost:1313/comics/nick/20210409_32204_hu11575675418146102049.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://oliviafu.github.io/comics/nick/20210409_32204_hu11575675418146102049.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/comics/nick/20210409_32204_hu11575675418146102049.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

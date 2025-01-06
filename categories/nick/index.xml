@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick on Olivia&#39;s Gallery</title>
-    <link>https://oliviafu.github.io/categories/nick/</link>
+    <link>http://localhost:1313/categories/nick/</link>
     <description>Recent content in Nick on Olivia&#39;s Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://oliviafu.github.io/categories/nick/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/nick/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nick and his friends</title>
-      <link>https://oliviafu.github.io/comics/nick/</link>
+      <link>http://localhost:1313/comics/nick/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://oliviafu.github.io/comics/nick/</guid><media:content url="https://oliviafu.github.io/comics/nick/20210409_32204_hu11575675418146102049.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/comics/nick/</guid><media:content url="http://localhost:1313/comics/nick/20210409_32204_hu11575675418146102049.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://oliviafu.github.io/comics/nick/20210409_32204_hu11575675418146102049.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/comics/nick/20210409_32204_hu11575675418146102049.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

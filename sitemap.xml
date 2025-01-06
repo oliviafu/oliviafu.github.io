@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://oliviafu.github.io/comics/</loc>
+    <loc>http://localhost:1313/comics/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/crafts/</loc>
+    <loc>http://localhost:1313/crafts/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/scratch/</loc>
+    <loc>http://localhost:1313/scratch/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/cartoon-art/</loc>
+    <loc>http://localhost:1313/categories/cartoon-art/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/comics/</loc>
+    <loc>http://localhost:1313/categories/comics/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/storytelling/</loc>
+    <loc>http://localhost:1313/categories/storytelling/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/unicore/</loc>
+    <loc>http://localhost:1313/categories/unicore/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/comics/unicore/</loc>
+    <loc>http://localhost:1313/comics/unicore/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/nick/</loc>
+    <loc>http://localhost:1313/categories/nick/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/comics/nick/</loc>
+    <loc>http://localhost:1313/comics/nick/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/%E8%B1%86%E5%AD%90/</loc>
+    <loc>http://localhost:1313/categories/%E8%B1%86%E5%AD%90/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviafu.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/chalkboard/</loc>
+    <loc>http://localhost:1313/categories/chalkboard/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/copyright/</loc>
+    <loc>http://localhost:1313/copyright/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/creations/</loc>
+    <loc>http://localhost:1313/categories/creations/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/diy/</loc>
+    <loc>http://localhost:1313/categories/diy/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/exploration/</loc>
+    <loc>http://localhost:1313/categories/exploration/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/categories/handmade/</loc>
+    <loc>http://localhost:1313/categories/handmade/</loc>
   </url><url>
-    <loc>https://oliviafu.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
