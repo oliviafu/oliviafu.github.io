@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIY on Olivia&#39;s Gallery</title>
-    <link>http://localhost:1313/categories/diy/</link>
+    <link>https://oliviafu.github.io/categories/diy/</link>
     <description>Recent content in DIY on Olivia&#39;s Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/categories/diy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://oliviafu.github.io/categories/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafts</title>
-      <link>http://localhost:1313/crafts/</link>
+      <link>https://oliviafu.github.io/crafts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crafts/</guid><media:content url="http://localhost:1313/crafts/20210614_33005_hu5750794270336605204.jpg" type="image/jpeg"/>
+      <guid>https://oliviafu.github.io/crafts/</guid><media:content url="https://oliviafu.github.io/crafts/20210614_33005_hu5750794270336605204.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/crafts/20210614_33005_hu5750794270336605204.jpg&quot; /&gt;
+          &lt;img src=&quot;https://oliviafu.github.io/crafts/20210614_33005_hu5750794270336605204.jpg&quot; /&gt;
           &lt;p&gt;A delightful showcase of her handmade creations, including greeting cards, paper crafts, and other imaginative projects. These pieces demonstrate her skillful use of materials and her passion for crafting thoughtful, one-of-a-kind items.&lt;/p&gt;
         </description></item>
   </channel>
