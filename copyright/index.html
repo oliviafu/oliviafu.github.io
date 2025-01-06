@@ -36,7 +36,13 @@ If you wish to inquire about licensing or using any of the artwork, please conta
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-QH5K9EMFX6');
+
+      
+      gtag('config', 'G-QH5K9EMFX6', {
+          'anonymize_ip': true,  
+          'allow_google_signals': false, 
+          'allow_ad_personalization_signals': false 
+      });
   </script>
   </head>
 
