@@ -1,0 +1,95 @@
+# Build the Hugo site from the `source` branch and publish it to `master`.
+#
+# How it works:
+# - The `source` branch is branched from `master`, so the original photos
+#   still live at repo-root album paths (featured-album/, comics/, ...).
+#   The "Arrange images" step moves the originals (not Hugo's generated
+#   _hu* resized copies) into content/ and removes the built artifacts
+#   inherited from master, then Hugo builds the site.
+# - New photos added straight to content/ are left alone by that step.
+# - The built site (public/) is synced to `master` with rsync --delete,
+#   so stale files left over from older builds are removed too.
+#
+# The deploy step is gated on the repository variable DEPLOY_ENABLED.
+# It is OFF by default: pushes to `source` only validate the build.
+# To turn publishing on, set the repo variable DEPLOY_ENABLED=true
+# (Repository Settings -> Secrets and variables -> Actions -> Variables),
+# or flip the `if:` below.
+
+name: Deploy site
+
+on:
+  push:
+    branches: [source]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          ref: source
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.140.2"
+          extended: true
+
+      - name: Arrange images into content/
+        run: |
+          set -e
+          shopt -s nullglob
+          mkdir -p content/featured-album content/comics/nick content/comics/unicore content/crafts content/scratch content/private
+          # Home-page cover image (repo root) -> home page bundle
+          mv ocean-wave.jpg content/ocean-wave.jpg
+          # Album originals (skip Hugo-generated _hu* resized copies)
+          for d in featured-album comics/nick comics/unicore crafts scratch private; do
+            for f in "$d"/*.jpg; do
+              case "$(basename "$f")" in
+                *_hu*) ;;
+                *) mv "$f" "content/$d/" ;;
+              esac
+            done
+          done
+          for f in comics/*.jpg; do
+            case "$(basename "$f")" in
+              *_hu*) ;;
+              *) mv "$f" content/comics/ ;;
+            esac
+          done
+          # The two binary favicon PNGs cannot be pushed through the API,
+          # so reuse the copies inherited from master (identical to the
+          # theme's) by placing them where Hugo publishes them from.
+          mkdir -p static/images
+          cp images/favicon.png images/apple-touch-icon.png static/images/
+          # Remove built artifacts inherited from master (pages, taxonomy
+          # pages, CSS/JS, favicon copies, leftover _hu* files).
+          rm -rf featured-album comics crafts scratch private about copyright categories tags css js images
+          rm -f index.html index.xml sitemap.xml 404.html
+
+      - name: Build
+        run: hugo
+
+      - name: Publish public/ to master
+        if: vars.DEPLOY_ENABLED == 'true'
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git worktree add /tmp/master master
+          rsync -a --delete --exclude .git public/ /tmp/master/
+          cd /tmp/master
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "Publish site (from source $(git -C "$GITHUB_WORKSPACE" rev-parse --short HEAD))"
+            git push origin master
+          fi
