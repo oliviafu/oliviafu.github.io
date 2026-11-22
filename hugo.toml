@@ -1,0 +1,9 @@
+baseURL = "https://oliviafu.github.io/"
+languageCode = "en-us"
+title = "Olivia's Gallery"
+theme = "gallery"
+timeout = "300s"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
